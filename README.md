@@ -10,9 +10,6 @@
 ---
 **基于Spring Cloud、OAuth2.0、Vue的前后端分离的权限管理系统**      
    
-您可以点击这里<a target="_blank" href="http://pig.pigx.top">在线体验</a> ,更多开发资料请参考<a target="_blank" href="https://pig4cloud.com">官网</a>。如需生产技术支持，请联系<a href="mailto:wangiegie@gmail.com">我们</a>免费支持   
- 
-非JAVA体系可以体验我们[前端解决方案](https://avue.top)，最新版本请关注<a target="_blank" href="http://pigx.pig4cloud.com">升级版</a>, 交流群<a target="_blank" href="https://jq.qq.com/?_wv=1027&k=5zWEvg5">23754102</a> 
 <p align="center">
     <img src="http://a.pigx.top/pig架构图.png">
 </p>   
@@ -60,12 +57,7 @@ pig
 - 服务监控: Spring Boot Admin
 - 分布式任务调度： 基于elastic-job的分布式任务，zookeeper做调度中心
 - zipkin链路追踪： 数据保存ELK，图形化展示
-- pinpoint链路追踪： 数据保存hbase，图形化展示
-
-### 问题反馈
-1. 欢迎提交 [ issue](https://gitee.com/log4j/pig/issues/new?issue%5Bassignee_id%5D=0&issue%5Bmilestone_id%5D=0)，请写清楚遇到问题的原因，浏览器和操作系统环境，重现的流程。 如果有开发能力，建议在本地调试出出错的代码。
-
-2. 不接受功能请求的issue，功能请求可能会被直接关闭，请谅解（正确的方式是打赏并附言）。  
+- pinpoint链路追踪： 数据保存hbase，图形化展示 
 
 ### 系统展示
 <table>
